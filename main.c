@@ -1,5 +1,5 @@
 #include "utils.h"
-
+//ддт
 #define ERR_ARGS_COUNT (-1)
 #define ERR_WRONG_FLG (-2)
 
